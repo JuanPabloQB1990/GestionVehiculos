@@ -1,5 +1,5 @@
 # GestionVehiculos
-en este ejercicio podemos ver como utilizo Herencia y interfaces y polimorfismo y un metodo llamado downcasting(especializacion) con la ayuda de instanceof, enum.
+en este ejercicio podemos ver como utilizo Herencia y interfaces, polimorfismo, enum y un metodo llamado downcasting(especialización) con la ayuda de instanceof.
 
 Diagrama UML
 
