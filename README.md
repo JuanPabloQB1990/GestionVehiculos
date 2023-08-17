@@ -3,4 +3,4 @@ en este ejercicio podemos ver como utilizo Herencia y interfaces, polimorfismo, 
 
 Diagrama UML
 
-[![Gestion-Vehiculos-1.jpg](https://i.postimg.cc/N0XjTXpH/Gestion-Vehiculos-1.jpg)](https://postimg.cc/94W2HD3m)
+[![Gestion-Vehiculos.jpg](https://i.postimg.cc/D0CCqWYL/Gestion-Vehiculos.jpg)](https://postimg.cc/7J2M4L4Z)
